@@ -6,7 +6,7 @@ Research indicates that machine learning for precision medicine significantly im
 
 ### 🚀 This repo contains
 - Source code for drug disease association prediction
-- Source code for drug disease gene association prediction
+- Source code for drug disease gene association prediction (with genes (UGT1A1, PIK3CA, BRAF, NRAS, KRAS and DYPD) from Ghanaian dataset)
 - Streamlit web interface for both predictions
 
 
