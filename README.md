@@ -13,4 +13,7 @@ Research indicates that machine learning for precision medicine significantly im
 ### 🫶🏽 Data Source
 All data used in this project is from Harvard's Zitnik Lab's Precision Medicine Knowledge Graph (PrimeKG)
 
-LINK TO THEIR REPO 
+[LINK TO THEIR REPO](https://github.com/mims-harvard/PrimeKG)
+
+
+
