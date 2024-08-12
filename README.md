@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="350" alt="image" src="https://github.com/user-attachments/assets/2a632e68-d002-4c2c-9b5b-37a4185d1274">
+  <img width="200" alt="image" src="https://github.com/user-attachments/assets/2a632e68-d002-4c2c-9b5b-37a4185d1274">
 </p>
 
 # Leveraging Machine Learning for Precision Medicine in Ghana
