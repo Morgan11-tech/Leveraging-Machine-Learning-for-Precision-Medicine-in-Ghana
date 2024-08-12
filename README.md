@@ -44,18 +44,18 @@ All data used in this project is from Harvard's Zitnik Lab's Precision Medicine 
 ### Visualisations: for drug disease association prediction
 
 <p align="center">
-  <img width="748" alt="image" src="https://github.com/user-attachments/assets/32324c72-099c-4794-9758-712808b0e762">
+  <img width="508" alt="image" src="https://github.com/user-attachments/assets/32324c72-099c-4794-9758-712808b0e762">
 </p>
 
 ### Visualisations: for drug disease gene association prediction
 <p align="center">
-  <img width="966" alt="image" src="https://github.com/user-attachments/assets/618154dc-c7f5-41e8-bda0-e4a8a6084292">
+  <img width="566" alt="image" src="https://github.com/user-attachments/assets/618154dc-c7f5-41e8-bda0-e4a8a6084292">
 </p>
 
 
 ### Interesting findings from literature review:
 <p align="center">
-<img width="1512" alt="image" src="https://github.com/user-attachments/assets/c6d8c826-9cc5-4b0c-b81e-d92b4f66f743">
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/c6d8c826-9cc5-4b0c-b81e-d92b4f66f743">
 </p>
 
 
