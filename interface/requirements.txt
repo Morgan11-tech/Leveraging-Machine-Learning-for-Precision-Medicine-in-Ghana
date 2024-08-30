@@ -1,6 +1,5 @@
 aiohttp==3.9.3
 aiosignal==1.3.1
-altgraph @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
 anyio==4.3.0
 appnope==0.1.4
 argon2-cffi==23.1.0
@@ -36,7 +35,6 @@ fonttools==4.51.0
 fqdn==1.5.1
 frozenlist==1.4.1
 fsspec==2024.3.1
-future @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
 gensim==4.3.2
 google-api-core==2.18.0
 google-api-python-client==2.125.0
@@ -74,7 +72,6 @@ jupyterlab==4.1.5
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.25.4
 kiwisolver==1.4.5
-macholib @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
 MarkupSafe==2.1.5
 matplotlib==3.9.0
 matplotlib-inline==0.1.6
