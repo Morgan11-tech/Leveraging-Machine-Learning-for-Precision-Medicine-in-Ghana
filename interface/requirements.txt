@@ -141,6 +141,5 @@ terminado==0.13.3
 threadpoolctl==3.4.0
 tinycss2==1.2.1
 tomli==2.0.1
-torch==2.3.0
-torch-sparse==0.6.18
-
+torch
+reportlab
